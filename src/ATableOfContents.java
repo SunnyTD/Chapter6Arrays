@@ -14,6 +14,7 @@ public class ATableOfContents
         TheEnhancedForLoop five = new TheEnhancedForLoop();
         ArrayLists six = new ArrayLists();
         WrappersAndAutoBoxing seven = new WrappersAndAutoBoxing();
+        LinearSearch eight = new LinearSearch();
 
         // Calling the methods (notes) in the called classes above into this one. (to be ran/executed).
 //        one.arrays();
@@ -22,7 +23,8 @@ public class ATableOfContents
 //        four.arrayReferences();
 //        five.theEnhancedForLoop();
 //        six.arrayLists();
-        seven.wrappersAndAutoBoxing();
+//        seven.wrappersAndAutoBoxing();
+        eight.linearSearch();
 
         //</editor-fold
 
@@ -33,6 +35,7 @@ public class ATableOfContents
         6.1.2: Array References
         6.1.3: Partially Filled Arrays
         6.2: The Enhanced for Loop
+        6.3.5: Linear Search
         6/8: Array Lists
         6.8.5: Wrappers and Auto-boxing
          */
