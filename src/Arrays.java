@@ -1,6 +1,6 @@
 public class Arrays
 {
-    public static void main(String[] args)
+    public void arrays()
     {
         double[] arraySetVariableNumber = new double[10];
         // can also declare an array this way; array set this way has no set number of variables, and allocates room

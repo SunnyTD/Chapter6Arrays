@@ -1,6 +1,6 @@
 public class ArrayReferences
 {
-    public static void main(String[] args)
+    public void arrayReferences()
     {
         // All arrays do is draw a reference to a list of variables. Whenever another array is assigned the
         // same values in the old array, they are both referencing the same set of variables. Hence, whatever changes

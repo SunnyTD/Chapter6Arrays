@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class PartiallyFilledArrays
 {
-    public static void main(String[] args)
+    public void partiallyFilledArrays()
     {
         // The size of arrays can't be modified while the program is running. Hence, a good guess on the max number
         // of slots that the array will need during runtime is necessary.
